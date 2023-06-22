@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+uvloop
+httptools==0.1.2
+dnspython
+pymongo
+motor
+aiohttp
+pynacl
+discord-webhook
+nest_asyncio
+websockets
+discord.py
+cool-utils
